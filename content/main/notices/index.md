@@ -1,5 +1,6 @@
 ---
 title: Notices about [Main](/main/)
+redirect: "/main"
 ---
 Dated notices about known usage issues and solutions specifically for Galaxy's [free public server](/main/). For the most current status notices as they are initially posted, please follow us at Twitter: [https://twitter.com/galaxyproject](https://twitter.com/galaxyproject) ([Galaxy on Twitter](/galaxy-on-twitter/)).
 

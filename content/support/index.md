@@ -79,4 +79,3 @@ title: Galaxy Support
 * [Preparing and using a Custom Reference Genome or Build](/learn/custom-genomes/)
 * [Mismatched Chromosome identifiers (and how to avoid them)](/support/chrom-identifiers/)
 * [Extended Help for Differential Expression Analysis Tools](/support/diff-expression/)
-

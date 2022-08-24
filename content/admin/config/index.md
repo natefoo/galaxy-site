@@ -22,7 +22,15 @@ title: Galaxy Configuration for Admins
 * [Collecting Job Metrics](https://docs.galaxyproject.org/en/latest/admin/special_topics/job_metrics.html)
 
 
+## tusd
+
+* [Performant Uploads with TUS](https://training.galaxyproject.org/training-material/topics/admin/tutorials/tus/tutorial.html)
+* [The galaxy-upload command line upload utility](https://galaxy-upload.readthedocs.io/)
+
 ## FTP
+
+NOTE: TUS provides robust, resumable uploads via the UI, API, and command line with little-to-no effort and is
+recommended over FTP for Galaxy servers running 22.01 or later.
 
 * [Upload via FTP](https://docs.galaxyproject.org/en/latest/admin/special_topics/ftp.html)
 * [Setup ProFTPd with AD/LDAP auth](/admin/config/proftpd-with-ad/)
